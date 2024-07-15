@@ -1,0 +1,10 @@
+body {
+    background-size: cover;
+}
+
+.HEADINGCAT {
+    font-size: larger;
+    font-stretch: semi-expanded;
+    font-weight: 400;
+    font-style: oblique;
+}
